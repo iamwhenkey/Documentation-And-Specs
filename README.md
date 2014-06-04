@@ -1,1 +1,1 @@
-A home for Gravity wide documentation and specifications.  This is not being updated anymore and moved over to our website at https://dashboard.gravity.com/assets/docs/api.php if you'd like to update your bookmarks.  No one likes 404's.
+A home for Gravity wide documentation and specifications.  This is not being updated anymore and moved over to our website at [RSS](https://dashboard.gravity.com/assets/docs/rss.php) & [API](https://dashboard.gravity.com/assets/docs/api.php) if you'd like to update your bookmarks.  No one likes 404's.
